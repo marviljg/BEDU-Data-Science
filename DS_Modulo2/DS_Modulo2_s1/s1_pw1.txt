@@ -1,0 +1,16 @@
+Identificar un problema a abordar
+
+Pasos:
+1. Identificación de un problema
+    Extraer conocimiento y hallar posibles soluciones
+    Busqueda de entendimiento como busqueda de soluciones
+    *El fin de esta etapa es entender mejor el problema
+
+2. Investigación al respecto del problema
+    Terminar entendiendo, lo mas cabal posible, el problema
+    para poder proponer preguntas y soluciones realmente utiles
+    Tener documentación/bitacora a la mano
+
+3. Búsqueda de soluciones anteriores
+    Consultar información y abordajes previos o existentes
+    al problema. Puede haber soluciones y analisis muy utiles
